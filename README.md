@@ -8,4 +8,5 @@
 - [Expected Value of Craps](Math_Behind_Casino_Games/Expected_Value_of_Craps.ipynb)
 - [Expected Value of Roulette](Math_Behind_Casino_Games/Expected_Value_of_Roulette.ipynb)
 - [Slot Machine Simulator](Math_Behind_Casino_Games/Slot_Machine_Simulator.ipynb)
+- [Blackjack Simulator](Math_Behind_Casino_Games/Blackjack_Simulator.ipynb)
 - [Probabilities of Poker Hands](Math_Behind_Casino_Games/Probabilities_of_Poker_Hands.ipynb)
